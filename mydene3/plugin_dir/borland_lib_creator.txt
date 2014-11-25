@@ -1,4 +1,0 @@
-find /u/abas/s3 -name '*.jar' -exec cp {} /u/libs/ \;
-find /u/abas/s3 -name '*.java' -exec cp {} /u/libs/ \;
-find /u/abas/erp -name '*.jar' -exec cp {} /u/libs/ \;
-find /u/abas/erp -name '*.java' -exec cp {} /u/libs/ \;
